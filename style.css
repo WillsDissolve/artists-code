@@ -1,0 +1,101 @@
+body {
+  background-color: black;
+  background-size: 100%;
+}
+
+div {
+    width: 15%;
+    height: 15%;
+    background: white;
+    border-style: solid;
+  }
+
+.random1 {
+  background-image: url("img/random_1.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 30%;
+    left: 20%;
+}
+.random2 {
+  background-image: url("img/random_2.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 30%;
+    left: 35%;
+}
+.random3 {
+  background-image: url("img/random_3.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 30%;
+    left: 50%;
+}
+.random4 {
+  background-image: url("img/random_4.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 30%;
+    left: 65%;
+}
+.random5 {
+  background-image: url("img/random_5.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 45%;
+    left: 20%;
+}
+.random6 {
+  background-image: url("img/random_6.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 45%;
+    left: 35%;
+}
+.random7 {
+  background-image: url("img/random_7.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 45%;
+    left: 50%;
+}
+.random8 {
+  background-image: url("img/random_8.jpg");
+  background-size: 100% 100%;
+  border: none;
+  position: fixed;
+    top: 45%;
+    left: 65%;
+}
+
+.random1:hover {
+  background-image: url(img/random_8.jpg);
+}
+.random2:hover {
+  background-image: url(img/random_7.jpg);
+}
+.random3:hover {
+  background-image: url(img/random_6.jpg);
+}
+.random4:hover {
+  background-image: url(img/random_5.jpg);
+}
+.random5:hover {
+  background-image: url(img/random_4.jpg);
+}
+.random6:hover {
+  background-image: url(img/random_3.jpg);
+}
+.random7:hover {
+  background-image: url(img/random_2.jpg);
+}
+.random8:hover {
+  background-image: url(img/random_1.jpg);
+}
